@@ -9,5 +9,3 @@
 * Permissions
 * Exercises
 * Automated testing
-
-* added locally
